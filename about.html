@@ -1,0 +1,57 @@
+---
+layout: page
+title: About
+permalink: /about/
+description: #
+theme: about
+hideComments: true
+---
+
+<h2><span itemprop="name"></span> <span itemprop="jobTitle"> </span> 重庆4年，上海1年，杭州4年，计划在<span itemprop="workLocation"> 深圳</span> 2年，目标  <strike>   广州   </strike>   未知 ... </h2>
+
+<section class="aboutpage_content" itemscope itemtype="http://schema.org/Person">
+
+  <div class="aboutpage_profilepic">
+    <img  src="/assets/images/golang.jpg" alt="a few years ago." class="profilePic">
+  </div>
+
+  <div class="aboutpage_text">
+
+    <div class="list" itemprop="brand">
+      <h3>Random Facts:</h3>
+      <ul class="bullet-group">
+        <li>喜欢看书，对我而言，出去玩=去图书馆</li>
+        <li>性格偏开朗，但不喜欢说话</li>
+        <li>对我启发最多的书是 《黑客与画家》 </li>
+        <li>I didn’t enjoy writing this page.</li>
+      </ul>
+    </div>
+
+    <div class="list">
+      <h3>Random nerd stuff I really like:</h3>
+      <ul class="bullet-group threeColumn">
+        {% for like in site.data.about.likes %}
+        <li>{{like}}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="list">
+      <h3>Random ways to get in touch:</h3>
+      <ul class="bullet-group twoColumn">
+        {% for item in site.data.about.contact %}
+        <li>
+          {% if item.url %} <a href="{{item.url}}">{{item.name}}</a>
+          {% else %} {{item.name}}
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+
+  </div>
+
+</section>
+
+<p class="builtWith">This site is built on <a href="http://jekyllrb.com/">jekyll</a>, tracked on <a href="http://github.com/">GitHub</a> and hosted on <a href="https://pages.github.com/">GitHub Pages</a>.</p>

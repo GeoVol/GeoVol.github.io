@@ -1,0 +1,37 @@
+﻿# Site settings
+title: 长风
+email: erichueng@gmail.com
+description: "Eirck's Blog"
+# baseurl: ""
+# url: "http://www.relzx.com"
+twitter_username: #
+github_username:  cppfish
+include: ['.htaccess']
+keywords: Erick
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+highlighter: rouge
+sass:
+  sass_dir: assets/_sass
+  style: compressed
+
+#Site Variables
+image: /assets/images/wl.jpg
+# Nav Bar Data
+nav:
+- name: Home
+  url: /
+- name: About
+  url: /about
+- name: Articles
+  url: /articles
+
+exclude: [update_rubygems.bat, update-build.bat, update-commit.bat]
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
