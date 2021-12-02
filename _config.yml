@@ -1,13 +1,13 @@
 ﻿# Site settings
-title: 长风
+title: Marc Ewing
 email: erichueng@gmail.com
-description: "Eirck's Blog"
+description: "Marc Ewing's Blog"
 # baseurl: ""
 # url: "http://www.relzx.com"
 twitter_username: #
 github_username:  cppfish
 include: ['.htaccess']
-keywords: Erick
+keywords: Marc Ewing Red Hat
 
 # Build settings
 markdown: kramdown
