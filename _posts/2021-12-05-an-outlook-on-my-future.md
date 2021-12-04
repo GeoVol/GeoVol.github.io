@@ -11,6 +11,8 @@ description: For whatever reason I'm really not happy with the content I've writ
 
 ### DO
 
+<strong>和阿娟~好好相处。</strong>
+
 上半年，报二级建造师机电、报二级造价师安装，作为练习。
 
 下半年，通过建造师（一级机电），通过造价师（一级安装）。
@@ -26,6 +28,8 @@ description: For whatever reason I'm really not happy with the content I've writ
 ### Un do
 
 会计、税务相关，偶尔看看，仅作为造价师拓展。
+
+电子显微镜、通信，作为知识拓展。
 
 投标过程中，特别关注机电安装、交通安全设施、电力、通信，不再关注土建施工。
 
