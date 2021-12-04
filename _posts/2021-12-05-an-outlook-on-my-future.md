@@ -19,7 +19,7 @@ description: For whatever reason I'm really not happy with the content I've writ
 
 8月、9月，珠海回来后生病了，惠州出差几次，情绪波动太大，建造师没考过。
 
-10月突然投4个标，虽然投标事情几乎撒手不管，但心情调整至12号，才恢复正常，实际看书时间不足15天。
+10月突然投4个标，虽然投标事情几乎撒手不管，但心情调整至12号，才恢复正常，实际看书时间不足15天，造价师没考过。
 
 10.18 过户。
 
@@ -29,4 +29,7 @@ description: For whatever reason I'm really not happy with the content I've writ
 
 11.18 搬家。
 
+11.28 马自达CX-5，买了2.0L版本，有点担忧动力不强，，但想想不能太贪，比2.5L少2万，省下点可以给家里买点电器。
+
 12月5 重新开启新一年的计划。
+
