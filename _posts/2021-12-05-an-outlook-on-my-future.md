@@ -7,6 +7,38 @@ categories: redo
 description: For whatever reason I'm really not happy with the content I've written in the past so I'm going to start over again, from scratch.
 ---
 
+## Future
+
+### DO
+
+上半年，报二级建造师机电、报二级造价师安装，作为练习。
+
+下半年，通过建造师（一级机电），通过造价师（一级安装）。
+
+2022年不换工作。
+
+下半年，考城乡规划师，计划2022年通过2门（2.城乡规划相关知识 3.城乡规划管理与法规），计划3年内通过全科（1.城乡规划原理 4.城乡规划实务）。
+
+年底考<strong>华南理工大学工程管理在职硕士</strong>。虽然很想考深圳大学城几所名校，可能力有限，财力有限，考个和重庆大学同级别学校也不错了，能在35岁前毕业。
+
+以穗莞深城际投资+施工投标项目为例，写一篇投资方面论文。
+
+### Un do
+
+会计、税务相关，偶尔看看，仅作为造价师拓展。
+
+投标过程中，特别关注机电安装、交通安全设施、电力、通信，不再关注土建施工。
+
+即使佛山地铁中标，也不到项目，到项目要喝酒，宁愿少挣几万，身体要紧。
+
+惠州湾高速中标，也不到项目。
+
+
+
+------
+
+## Past
+
 2021年不够努力，缺少了破釜沉舟的决心，包括打羽毛球，浪费了太多时间。
 
 1、2月春节，轻松度过。
@@ -33,3 +65,4 @@ description: For whatever reason I'm really not happy with the content I've writ
 
 12月5 重新开启新一年的计划。
 
+------
