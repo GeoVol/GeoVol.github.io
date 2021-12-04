@@ -39,7 +39,7 @@ description: For whatever reason I'm really not happy with the content I've writ
 
 注册岩土工程师，不再列入计划。
 
-注册结构工程师，在通过城乡规划师之后，再做考虑。
+注册结构工程师，在通过城乡规划师之后，再做考虑。2016-2020年执着于此，实在是可惜。
 
 ------
 
@@ -67,7 +67,7 @@ description: For whatever reason I'm really not happy with the content I've writ
 
 11.18 搬家。
 
-11.28 马自达CX-5，买了2.0L版本，有点担忧动力不强，，但想想不能太贪，比2.5L少2万，省下点可以给家里买点电器。
+11.28 马自达CX-5，买了2.0L版本，有点担忧动力不强，但想想不能太贪，比2.5L少2万，省下点可以给家里买点电器。
 
 12月5 重新开启新一年的计划。
 
