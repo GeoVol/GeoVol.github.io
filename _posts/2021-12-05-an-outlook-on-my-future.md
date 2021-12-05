@@ -1,6 +1,6 @@
 ---
 layout: post
-title: And Outlook on My Future.
+title: An Outlook on My Future.
 date: 2021-12-05 01:15:01
 author: cppfish
 categories: redo
