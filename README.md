@@ -28,3 +28,8 @@ include/head.html
 {% else %}
   {% assign title = site.title %}
 {% endif %}
+
+解决bug 
+
+`no implicit conversion of Hash into Integer  `
+

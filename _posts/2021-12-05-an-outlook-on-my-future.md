@@ -5,6 +5,9 @@ date: 2021-12-05 01:15:01
 author: cppfish
 categories: redo
 description: For whatever reason I'm really not happy with the content I've written in the past so I'm going to start over again, from scratch.
+image: /assets/images/header.jpg
+
+
 ---
 
 ## Future
