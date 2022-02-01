@@ -22,13 +22,13 @@
 
 
 include/head.html
-
+```
 {% if page.title %}
   {% assign title = page.title %}
 {% else %}
   {% assign title = site.title %}
 {% endif %}
-
+```
 解决bug 
 
 `no implicit conversion of Hash into Integer  `
