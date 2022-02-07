@@ -25,7 +25,7 @@ image: /assets/images/header.jpg
 
 心理学的角度，在不断得到的过程是很幸福的，在突然失去的瞬间，是痛苦的，而这次失去并没有觉得伤心，因为早有预感，只是还抱有一丝幻想，坚持到了现在。
 
-	[算了吧，放了吧，让过去成为过去吧！](https://www.musicenc.com/article/497705.html)
+[算了吧，放了吧，让过去成为过去吧！](https://www.musicenc.com/article/497705.html)
 
 已经结束了！
 
